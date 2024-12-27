@@ -1,6 +1,7 @@
-name: Electrochemistry_Notebooks
+name: base
 channels: 
- - defaults
+  - defaults
+  - conda-forge
  dependencies:
   - python=3.7
   - numpy=1.18.1

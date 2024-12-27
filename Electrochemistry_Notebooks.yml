@@ -5,4 +5,4 @@ channels:
   - python=3.7
   - numpy=1.18.1
   - scipy=1.4.1
-  - matplotlib==3.1.3
+  - matplotlib=3.1.3
